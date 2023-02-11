@@ -37,8 +37,8 @@ public class E04_AreaCoronaCircular {
 		
 		Corona circular = new Corona(petit, gran);
 		
-//		System.out.println("L'area del petit es: " +petit.area());
-//		System.out.println("L'area del gran es: " +gran.area());
+		System.out.println("L'area del petit es: " +petit.area());
+		System.out.println("L'area del gran es: " +gran.area());
 		System.out.println("Area de la corona: " +circular.area());
 	}
 
